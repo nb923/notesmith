@@ -1,7 +1,8 @@
 {
     "dockerfile_lines": [],
     "graphs": {
-        "basic_agent": "./basic_agent.py:graph"
+        "basic_agent": "./basic_agent.py:graph",
+        "arithmetic_agent": "./arithmetic_react_agent.py:graph"
     },
     "env": "./.env",
     "python_version": "3.11",
